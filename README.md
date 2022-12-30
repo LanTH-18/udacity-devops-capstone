@@ -11,6 +11,6 @@ Idea green blue as the base app for deploying to AWS EKS. Upgrade CircleCI yaml 
 - Using region us-east-1
 
 ## Load Balancers at Port 8000
-http://a8a340fcd1fc1492bad652208a67a685-330921641.us-east-1.elb.amazonaws.com/
+http://a85e0cf26827541c68288adfb4707316-141930253.us-east-1.elb.amazonaws.com/
 
 Happy New Year
